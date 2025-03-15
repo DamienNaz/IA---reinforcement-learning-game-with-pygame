@@ -11,7 +11,7 @@ The game simulates a learning environment where the agent interacts with the env
 - **Penalties & Rewards**: The agent receives a penalty for invalid moves and a reward for collecting garbage.
 - **Graphical Interface**: The game uses **Pygame** to provide a graphical interface with Iron Man and garbage icons.
 
-![Game Screenshot](screenshots/gameplay1.PNG)
+![Game Screenshot](Reinforcement_learning/screenshots/gameplay1.PNG)
 
 
 ## Technologies Used
